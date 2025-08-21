@@ -3,7 +3,7 @@
 Project BMS is a movie booking management system built with Node.js, Express, and MongoDB. It allows users to browse movies, book tickets, and manage bookings.
 
 # Deploy Link
-Link: 
+Link: https://node-js-movie-pr.onrender.com/
 
 ## Features
 - User authentication (login/register)
